@@ -1,2 +1,2 @@
 # appNortification📱🔔
-Atividade concluída com o objetivo de criar um aplicativo em React Native que emita nortificação de lembrete, alertando a próxima refeição
+Activity completed with the objective of creating an application in React Native that issues reminder notifications
